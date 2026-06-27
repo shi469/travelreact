@@ -1,0 +1,221 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "shiva",
+      "email": "shiva@gmail.com",
+      "password": "sr@123"
+    },
+    {
+      "name": "venu",
+      "email": "venu@gmail.com",
+      "password": "venu@123",
+      "id": "S3L84tZax9g"
+    },
+    {
+      "name": "ramu",
+      "email": "ramu@gmail.com",
+      "password": "ramu123",
+      "id": "CdjEEAU-q90"
+    },
+    {
+      "name": "ramu",
+      "email": "ramu@gmail.com",
+      "password": "ramu123",
+      "id": "rvBKWLMSCUA"
+    },
+    {
+      "name": "",
+      "email": "ramu@gmail.com",
+      "password": "ramu123",
+      "id": "NDVkxRghfqQ"
+    }
+  ],
+  "destinations": [
+    {
+      "id": "1",
+      "name": "Goa",
+      "country": "India",
+      "category": "Beach",
+      "budget": "Medium",
+      "image": "https://images.unsplash.com/photo-1512343879784-a960bf40e7f2",
+      "description": "Goa is famous for its beaches, nightlife, and Portuguese architecture.",
+      "bestTimeToVisit": "November to February",
+      "duration": "3-5 Days",
+      "rating": 4.7,
+      "price": 15000,
+      "language": "Konkani",
+      "currency": "INR",
+      "famousFor": "Beaches and Water Sports",
+      "weather": "24°C - 32°C",
+      "attractions": [
+        "Baga Beach",
+        "Calangute Beach",
+        "Dudhsagar Falls",
+        "Fort Aguada"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Kerala",
+      "country": "India",
+      "category": "Nature",
+      "budget": "Medium",
+      "image": "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944",
+      "description": "Kerala is known for its backwaters, greenery, and houseboats.",
+      "bestTimeToVisit": "September to March",
+      "duration": "5-7 Days",
+      "rating": 4.9,
+      "price": 18000,
+      "language": "Malayalam",
+      "currency": "INR",
+      "famousFor": "Backwaters",
+      "weather": "23°C - 31°C",
+      "attractions": [
+        "Alleppey",
+        "Munnar",
+        "Thekkady",
+        "Kochi"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Ooty",
+      "country": "India",
+      "category": "Hill Station",
+      "budget": "Low",
+      "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+      "description": "Ooty is a scenic hill station famous for tea plantations.",
+      "bestTimeToVisit": "Throughout the Year",
+      "duration": "3-4 Days",
+      "rating": 4.5,
+      "price": 9000,
+      "language": "Tamil",
+      "currency": "INR",
+      "famousFor": "Tea Gardens",
+      "weather": "12°C - 22°C",
+      "attractions": [
+        "Ooty Lake",
+        "Botanical Garden",
+        "Doddabetta Peak",
+        "Tea Museum"
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Leh Ladakh",
+      "country": "India",
+      "category": "Adventure",
+      "budget": "High",
+      "image": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429",
+      "description": "Leh Ladakh offers breathtaking landscapes and thrilling road trips.",
+      "bestTimeToVisit": "May to September",
+      "duration": "7-10 Days",
+      "rating": 4.9,
+      "price": 30000,
+      "language": "Ladakhi",
+      "currency": "INR",
+      "famousFor": "Road Trips",
+      "weather": "-5°C to 20°C",
+      "attractions": [
+        "Pangong Lake",
+        "Nubra Valley",
+        "Magnetic Hill",
+        "Shanti Stupa"
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Agra",
+      "country": "India",
+      "category": "Historical",
+      "budget": "Low",
+      "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523",
+      "description": "Agra is home to the world-famous Taj Mahal.",
+      "bestTimeToVisit": "October to March",
+      "duration": "2-3 Days",
+      "rating": 4.7,
+      "price": 8000,
+      "language": "Hindi",
+      "currency": "INR",
+      "famousFor": "Taj Mahal",
+      "weather": "8°C - 30°C",
+      "attractions": [
+        "Taj Mahal",
+        "Agra Fort",
+        "Mehtab Bagh",
+        "Fatehpur Sikri"
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Andaman",
+      "country": "India",
+      "category": "Island",
+      "budget": "High",
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+      "description": "Andaman Islands are known for crystal-clear waters and scuba diving.",
+      "bestTimeToVisit": "November to May",
+      "duration": "5-7 Days",
+      "rating": 4.8,
+      "price": 25000,
+      "language": "Hindi",
+      "currency": "INR",
+      "famousFor": "Scuba Diving",
+      "weather": "24°C - 30°C",
+      "attractions": [
+        "Radhanagar Beach",
+        "Cellular Jail",
+        "Ross Island",
+        "Neil Island"
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Darjeeling",
+      "country": "India",
+      "category": "Hill Station",
+      "budget": "Medium",
+      "image": "https://images.unsplash.com/photo-1469474968028-56623f02e42e",
+      "description": "Darjeeling is famous for tea plantations and Himalayan views.",
+      "bestTimeToVisit": "March to June",
+      "duration": "4-5 Days",
+      "rating": 4.6,
+      "price": 14000,
+      "language": "Nepali",
+      "currency": "INR",
+      "famousFor": "Tea Estates",
+      "weather": "5°C - 18°C",
+      "attractions": [
+        "Tiger Hill",
+        "Batasia Loop",
+        "Tea Gardens",
+        "Himalayan Railway"
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Rishikesh",
+      "country": "India",
+      "category": "Spiritual",
+      "budget": "Low",
+      "image": "https://images.unsplash.com/photo-1516483638261-f4dbaf036963",
+      "description": "Rishikesh is the yoga capital of the world and a hub for river rafting.",
+      "bestTimeToVisit": "September to April",
+      "duration": "3-5 Days",
+      "rating": 4.7,
+      "price": 10000,
+      "language": "Hindi",
+      "currency": "INR",
+      "famousFor": "Yoga and River Rafting",
+      "weather": "15°C - 30°C",
+      "attractions": [
+        "Laxman Jhula",
+        "Ram Jhula",
+        "Triveni Ghat",
+        "River Rafting"
+      ]
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
